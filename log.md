@@ -1,30 +1,109 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 13, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:**
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
+
+**Link to tweet:** [HonkanenSaila Day 1](https://twitter.com/HonkanenSaila/status/1228075383704125440)
+
+### Day 2: February 14, 2020
+
+**Today's Progress:** Struggling with CSS. Decided to start #DailyCSSImages challenge.
+
+**Thoughts:** 
+
+### Day 3: February 15, 2020
+
+**Today's Progress:** Finished the Koala Tutorial with my fiance.
+
+**Thoughts:** 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 4: February 16, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Did my first pure CSS pic!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to tweet:** [HonkanenSaila Day 2-4](https://twitter.com/HonkanenSaila/status/1229417785740144641)
 
+### Day 5: February 17, 2020
 
-### Day 1: June 27, Monday
+**Today's Progress:** I did my first open source code contribution!
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to tweet:** [HonkanenSaila Day 5](https://twitter.com/HonkanenSaila/status/1229765751432712192)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 6: February 18, 2020
+
+**Today's Progress:** Coding with Scratch. I'm doing my thesis about how to teach primary school aged kids to code.
+
+**Thoughts:** 
+
+**Link to tweet:** [HonkanenSaila Day 6](https://twitter.com/HonkanenSaila/status/1230199848395313152)
+
+### Day 7: February 19, 2020
+
+**Today's Progress:** Finished Scratch Pong Game 
+
+**Thoughts:** 
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 8: February 20, 2020
+
+**Today's Progress:** Finished Pure CSS course. Started working with prompt 2.
+
+**Thoughts:** 
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 9: February 21, 2020
+
+**Today's Progress:** Finished prompt 2. Started Freecodecamp
+
+**Thoughts:** 
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 10: February 22, 2020
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 11: February 23, 2020
+
+**Today's Progress:** Started expence-tracker. Made real-estate app repo and initial commit.
+
+**Thoughts:** I decided that one of my goals is to learn use Git and Github more effectively.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 12: February 24, 2020
+
+**Today's Progress:**
+
+**Thoughts:** Finished EXPENCE-TRACKER
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 13: February 25, 2020
+
+**Today's Progress:**
+
+**Thoughts:** Started Pokedex
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 14: February 26, 2020
+
+**Today's Progress:** Forked this #100DaysOfCode repo and made my first commit.
+
+**Thoughts:** 
